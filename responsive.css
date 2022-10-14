@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+    /* Tambahkan css untuk lesson */
+    .col-md-8 {
+        width: 100%;
+        text-align: left;
+        margin: auto;
+    }
+
+}
