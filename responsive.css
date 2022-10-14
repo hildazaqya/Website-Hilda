@@ -1,5 +1,9 @@
 @media (max-width: 1000px) {
     /* Tambahkan css untuk lesson */
+    #hubungisaya {
+        width: auto;
+    }
+    
     .col-md-8 {
         width: 100%;
         text-align: left;
@@ -24,9 +28,13 @@
 
 }
 
-@media (max-width:576px){
+@media screen and (max-width:576px){
     .body{
         max-width: 100%;
+    }
+
+    #hubungisaya {
+        width: auto;
     }
 
     .jumbotron{
