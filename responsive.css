@@ -6,6 +6,10 @@
         margin: auto;
     }
 
+    .body{
+        max-width: 100%;
+    }
+
     .jumbotron{
         width: auto;
 		float: none;
@@ -20,7 +24,10 @@
 
 }
 
-@media screen and (max-width:680px){
+@media (max-width:576px){
+    .body{
+        max-width: 100%;
+    }
 
     .jumbotron{
         width: auto;
