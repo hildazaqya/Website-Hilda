@@ -45,9 +45,12 @@
 	#ketorganisasi {
 	width: 50%;
 	float: none;
-        font: 20px;
+        font: 15px;
         padding: auto;
-        margin: auto;
+	}
+	
+	#ket2 {
+	margin-left : -10px;
 	}
 	
 	#sidebar{
