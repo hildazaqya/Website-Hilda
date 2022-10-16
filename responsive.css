@@ -39,26 +39,41 @@
 
     .jumbotron{
         width: auto;
-	float: none;
+		float: none;
     }
 
-	#ketorganisasi {
-	width: 50%;
-	float: none;
-        font: 15px;
+	#ketorganisasi{
+		width: auto;
+		float: none;
+        font-size: 15px;
         padding: auto;
+        margin: auto;
 	}
-	
-	#ket2 {
-	margin-left : -10px;
-	}
-	
+
+
+    #logoosis, #logohmps {
+        width: 80px;
+        margin: auto; 
+    }
+
+    #logoosis {
+        height: 75px;
+    }
+
+    #kontakperson {
+        width: 50%;
+    }
+
 	#sidebar{
 		width: auto;
 		float: none;
 	}
-	
-	#hubungisaya {
-	width : 50%;
-	float : none;
+
+    #exampleInputEmail1 {
+        width: 50%;
+        margin: auto;
+    }
+    .footer{
+        height: 300px;
+    }
 }
