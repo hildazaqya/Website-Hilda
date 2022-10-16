@@ -39,15 +39,17 @@
 
     .jumbotron{
         width: auto;
-		float: none;
+	float: none;
     }
 
-	#ketorganisasi{
-		width: auto;
-		float: none;
+	#ketorganisasi {
+	width: auto;
+	float: none;
+        font: 20px;
         padding: auto;
         margin: auto;
 	}
+	
 	#sidebar{
 		width: auto;
 		float: none;
