@@ -29,6 +29,7 @@
 }
 .jumbotron {
     background-color:  #cfe0e8;
+    background-size: cover;
 }
 
 #isibio {
@@ -42,8 +43,8 @@
 
 #ket2 {
     margin:auto;
-    width: 300px;
-    padding-right: 10px;
+    width: 280px;
+    padding-right: 30px;
 }
 
 .rounded-circle{
@@ -53,13 +54,13 @@
 }
 
 #logohmps{
-    width: 150px;
+    width: 130px;
     margin: auto;
 }
 
 #logoosis{
-    width: 150px;
-    height: 140px;
+    width: 130px;
+    height: 120px;
     margin: auto;  
 }
 
@@ -70,10 +71,9 @@
     max-width: 1360px;
 }
 #ketorganisasi{
+    font-size:  17px;
     width: auto;
     margin: auto;
-
-
 }
 #button{
     margin-top: 10px;
@@ -86,13 +86,14 @@
 }
 
 #row3 {
-    background-color: #daebe8;
-    background-size: cover;
+
 }
 
 #riwayatorganisasi {
     text-align: center;
     margin: auto;
+    background-color: #daebe8;
+    background-size: cover;
 }
 
 #sosmed {
