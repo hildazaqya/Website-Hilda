@@ -29,13 +29,9 @@
 }
 
 @media screen and (max-width:576px){
-
-    #aboutme {
-        margin: auto;
-        float: left;
-        padding: auto;
+     .body {
+        max-width: 100%;
     }
-
     #hubungisaya {
         width: auto;
     }
