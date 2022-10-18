@@ -29,8 +29,11 @@
 }
 
 @media screen and (max-width:576px){
-    .body{
-        max-width: 100%;
+
+    #aboutme {
+        margin: auto;
+        float: left;
+        padding: auto;
     }
 
     #hubungisaya {
@@ -45,19 +48,19 @@
 	#ketorganisasi{
 		width: auto;
 		float: none;
-        font-size: 15px;
+        font-size: 13px;
         padding: auto;
-        margin: auto;
+        margin-left: -10px;
 	}
 
 
     #logoosis, #logohmps {
-        width: 80px;
+        width: 75px;
         margin: auto; 
     }
 
     #logoosis {
-        height: 75px;
+        height: 68px;
     }
 
     #kontakperson {
@@ -68,6 +71,10 @@
 		width: auto;
 		float: none;
 	}
+
+    #KritikSaran{
+        margin-left: -50px;
+    }
 
     #exampleInputEmail1 {
         width: 50%;
